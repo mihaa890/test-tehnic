@@ -1,0 +1,41 @@
+.save-btn {
+    padding-left:1rem;
+    padding-right: 1rem;
+    border: none;
+    background-color: #8902ff;
+    font-size: 1.3rem;
+    font-weight: bold;
+    color: white;
+    border-radius: 0.5rem;
+    text-decoration: none;
+    margin-right: 0.5rem;
+    margin-top:0.5rem
+
+}
+.cancel-btn{
+    padding-left:1rem;
+    padding-right: 1rem;
+    border: none;
+    background-color: #ff0202;
+    font-size: 1.3rem;
+    font-weight: bold;
+    color: white;
+    border-radius: 0.5rem;
+    text-decoration: none;
+    margin-right: 0.5rem;
+    margin-top:10rem
+
+}
+.actions-container-buttons{
+    padding-left: 1rem;
+}
+.form-group{
+    padding-left: 1rem;
+}
+
+h2{
+    padding-left: 1rem;
+}
+label{
+    font-size:1.1rem
+}
